@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 612572722afff0343800f67c5b3267ff, type: 3}
+  m_Name: Range_Rotation
+  m_EditorClassIdentifier: 
+  _type: {fileID: 11400000, guid: 5873cb0f4201f6947a160d0cd05d5393, type: 2}
+  _title: O'mometer
+  _sprite: {fileID: 21300000, guid: b18533a4c7135324aa4c4e1600d7b185, type: 3}
+  _from: -0.5
+  _to: 0.5
+  _initial: -0.2
